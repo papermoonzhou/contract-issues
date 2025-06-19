@@ -17,3 +17,7 @@ npx hardhat vars set PRIVATE_KEY "0x"
 ```shell
 npx hardhat ignition deploy ignition/modules/MyToken.ts --network passetHub
 ```
+
+## openzeppelin install
+
+npm install @openzeppelin/contracts
